@@ -1,0 +1,4 @@
+[core]
+    remote = houseprediction
+['remote "houseprediction"']
+    url = s3://dvc-dataset-26
